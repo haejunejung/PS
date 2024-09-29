@@ -12,6 +12,11 @@
 
 ### 정렬
 
+- [LV1. 두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644)
 - [LV1. K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)
 - [LV2. 가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)
 - [LV2. H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)
+
+### 완전탐색
+
+- [LV1. 모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)
