@@ -25,3 +25,8 @@
 
 - [LV1. 실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)
 - [LV2. 방문길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994)
+
+### 배열
+
+- [LV2. 행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949)
+- [LV2. 교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)
