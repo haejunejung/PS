@@ -30,3 +30,11 @@
 
 - [LV2. 행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949)
 - [LV2. 교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)
+- [LV2. 삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)
+- [LV2. 거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)
+
+### 스택/큐
+
+- [LV1. 같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)
+- [LV2. 기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)
+- [LV2. 올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)
