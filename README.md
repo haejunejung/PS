@@ -36,5 +36,14 @@
 ### 스택/큐
 
 - [LV1. 같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)
+- [LV1. 크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)
 - [LV2. 기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)
 - [LV2. 올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)
+- [LV2. 괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)
+- [LV2. 짝 지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)
+- [LV2. 주식 가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)
+- [LV3. 표 편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303)
+
+### 완전 탐색
+
+- [LV2. 카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)
