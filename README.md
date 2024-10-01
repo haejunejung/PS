@@ -8,6 +8,7 @@
 - [LV1. 완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)
 - [LV2. 전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)
 - [LV2. 의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)
+- [LV2. 할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)
 - [LV3. 베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)
 
 ### 정렬
@@ -37,6 +38,7 @@
 
 - [LV1. 같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)
 - [LV1. 크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)
+- [LV1. 카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994)
 - [LV2. 기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)
 - [LV2. 올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)
 - [LV2. 괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)
