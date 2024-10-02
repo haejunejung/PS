@@ -9,6 +9,7 @@
 - [LV2. 전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)
 - [LV2. 의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)
 - [LV2. 할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)
+- [LV2. 오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)
 - [LV3. 베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)
 
 ### 정렬
