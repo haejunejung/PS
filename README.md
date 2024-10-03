@@ -6,9 +6,11 @@
 
 - [LV1. 폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)
 - [LV1. 완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)
+- [LV1. 개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)
 - [LV2. 전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)
 - [LV2. 의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)
 - [LV2. 할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)
+- [LV2. 메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)
 - [LV2. 오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)
 - [LV3. 베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)
 
@@ -50,3 +52,14 @@
 ### 완전 탐색
 
 - [LV2. 카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)
+- [LV3. 미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365)
+
+### 그리디
+
+- [LV2. 택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)
+
+### 그래프
+
+- [LV2. 배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978)
+- [LV3. 네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)
+- [LV3. 길 찾기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/42892)
