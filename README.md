@@ -62,4 +62,7 @@
 
 - [LV2. 배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978)
 - [LV3. 네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)
+- [LV3. 섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)
+- [LV3. 양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)
+- [LV3. 다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486)
 - [LV3. 길 찾기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/42892)
