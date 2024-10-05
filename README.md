@@ -21,10 +21,6 @@
 - [LV2. 가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)
 - [LV2. H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)
 
-### 완전탐색
-
-- [LV1. 모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)
-
 ### 구현
 
 - [LV1. 실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)
@@ -49,14 +45,19 @@
 - [LV2. 주식 가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)
 - [LV3. 표 편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303)
 
-### 완전 탐색
+### 탐색
 
+- [LV1. 모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)
 - [LV2. 카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)
+- [LV2. 미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)
 - [LV3. 미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365)
+- [LV3. 경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259)
 
 ### 그리디
 
 - [LV2. 택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)
+- [LV3. 숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987)
+- [LV3. 기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979)
 
 ### 그래프
 
