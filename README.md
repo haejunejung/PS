@@ -52,6 +52,7 @@
 - [LV2. 미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)
 - [LV3. 미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365)
 - [LV3. 경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259)
+- [LV3. 불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)
 
 ### 그리디
 
@@ -67,3 +68,7 @@
 - [LV3. 양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)
 - [LV3. 다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486)
 - [LV3. 길 찾기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/42892)
+
+### 이분 탐색
+
+- [LV3. 입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)
